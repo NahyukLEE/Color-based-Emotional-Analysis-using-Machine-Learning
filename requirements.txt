@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+matplotlib
+seaborn
+numpy
+natsort
+colorsys
+opencv-contrib-python
