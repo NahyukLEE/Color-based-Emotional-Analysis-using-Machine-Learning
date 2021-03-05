@@ -1,9 +1,9 @@
 
-# Emotional classification and Painting rendering system based on Biological signals
+# Color-based Emotional Analysis using Machine Learning
 
 Download Link : [Paper](https://drive.google.com/file/d/1ar9R1RwwCOPMbPviZfNuvDVif1Et_eYj/view?usp=sharing) (Korean)
 
-**This repository contains code implementation about our paper "*Emotional classification and Painting rendering system based on Biological signals*".**
+**This repository contains code implementation about our paper "*Color-based Emotional Analysis using Machine Learning*".**
 
 **3rd AI-humanity Academic Competition 2nd place Award 🥈 (Excellence Award)**
 
