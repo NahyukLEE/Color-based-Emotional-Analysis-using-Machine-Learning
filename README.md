@@ -1,20 +1,6 @@
 
 # Color-based Emotional Analysis using Machine Learning
 
-Download Link : [Paper](https://drive.google.com/file/d/1ar9R1RwwCOPMbPviZfNuvDVif1Et_eYj/view?usp=sharing) (Korean)
-
-**This repository contains code implementation about our paper "*Color-based Emotional Analysis using Machine Learning*".**
-
-**3rd AI-humanity Academic Competition 2nd place Award 🥈 (Excellence Award)**
-
-
-### Our Team 
- - **Nahyuk Lee** 🙋‍♂️ (School of Computer Science & Engineering, Chung-Ang Univ.)
- - Yeeun Hwang (School of Business Administration, Chung-Ang Univ.)
- - Yein Moon (School of Electrical and Electronics Engineering, Chung-Ang Univ.)
- - Yuri So (Department of Applied Statistics, Chung-Ang Univ.)
-
-
 ## Application
 ### Example 01 : In Timelaps Video
 The graph visualizes how the sensibilities of 'happy', 'press', 'angry' and 'comfort' change over time.
