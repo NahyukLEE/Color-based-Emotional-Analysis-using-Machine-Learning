@@ -1,6 +1,11 @@
 
 # Color-based Emotional Analysis using Machine Learning
 
+Code for Paper "T. Lee, N. Lee, S. Seo, D. Kang, "A Study on the Prediction of Emotion from Image by Time-flow using Color Analysis", CSCI 2020, Las Vegas, United States",  "The Study for Emotion Analysis from Images depend on Machine Learning Models", Journal of Digital Contents Society
+Paper Link: 
+- https://ieeexplore.ieee.org/document/9458016 (CSCI 2020)
+- http://journal.dcs.or.kr/xml/30273/30273.pdf (JDCS)
+
 ## Application
 ### Example 01 : In Timelaps Video
 The graph visualizes how the sensibilities of 'happy', 'press', 'angry' and 'comfort' change over time.
