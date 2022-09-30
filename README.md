@@ -2,12 +2,9 @@
 # Color-based Emotional Analysis using Machine Learning
 
 Code for Papers
-- T. Lee, **N. Lee**, S. Seo, D. Kang, "A Study on the Prediction of Emotion from Image by Time-flow using Color Analysis", CSCI 2020, Las Vegas, United States
-- **N. Lee**, T. Lee, "The Study for Emotion Analysis from Images depend on Machine Learning Models", Journal of Digital Contents Society  
+- T. Lee, **N. Lee**, S. Seo, D. Kang, "A Study on the Prediction of Emotion from Image by Time-flow using Color Analysis", CSCI 2020, Las Vegas, United States ([Paper](https://ieeexplore.ieee.org/document/9458016))
+- **N. Lee**, T. Lee, "The Study for Emotion Analysis from Images depend on Machine Learning Models", Journal of Digital Contents Society ([Paper](http://journal.dcs.or.kr/xml/30273/30273.pdf))
 
-***Paper Link***: 
-- https://ieeexplore.ieee.org/document/9458016 (CSCI 2020)
-- http://journal.dcs.or.kr/xml/30273/30273.pdf (JDCS)
 
 ## Application
 ### Example 01 : In Timelaps Video
